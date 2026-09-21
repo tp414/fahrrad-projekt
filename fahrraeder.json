@@ -1,0 +1,12 @@
+[
+  { "fahrrad_id": 1, "farbe": "rot", "fahrradtyp": "Stadtrad", "baujahr": 2021, "kilometerstand": 342 },
+  { "fahrrad_id": 2, "farbe": "blau", "fahrradtyp": "E-Bike", "baujahr": 2023, "kilometerstand": 128 },
+  { "fahrrad_id": 3, "farbe": "grün", "fahrradtyp": "Mountainbike", "baujahr": 2020, "kilometerstand": 780 },
+  { "fahrrad_id": 4, "farbe": "schwarz", "fahrradtyp": "Stadtrad", "baujahr": 2022, "kilometerstand": 210 },
+  { "fahrrad_id": 5, "farbe": "gelb", "fahrradtyp": "E-Bike", "baujahr": 2024, "kilometerstand": 45 },
+  { "fahrrad_id": 6, "farbe": "rot", "fahrradtyp": "Mountainbike", "baujahr": 2019, "kilometerstand": 1150 },
+  { "fahrrad_id": 7, "farbe": "weiß", "fahrradtyp": "Stadtrad", "baujahr": 2023, "kilometerstand": 95 },
+  { "fahrrad_id": 8, "farbe": "blau", "fahrradtyp": "E-Bike", "baujahr": 2022, "kilometerstand": 300 },
+  { "fahrrad_id": 9, "farbe": "grün", "fahrradtyp": "Stadtrad", "baujahr": 2021, "kilometerstand": 420 },
+  { "fahrrad_id": 10, "farbe": "schwarz", "fahrradtyp": "Mountainbike", "baujahr": 2020, "kilometerstand": 890 }
+]
