@@ -7,3 +7,4 @@ function ladeFahrraeder(pfad) {
 
 const fahrraeder = ladeFahrraeder('fahrraeder.json');
 console.log(fahrraeder);
+//Ich habe Schuhgröße 43
